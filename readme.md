@@ -16,6 +16,12 @@ virtualenv env_chatbotshop
 source env_chatbotshop/bin/activate
 ```
 
+## Deactivate virtualenv
+
+```bash
+deactivate
+```
+
 ## Install requirements
 
 ```bash
